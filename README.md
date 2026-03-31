@@ -1,5 +1,7 @@
-# 20
-# 智慧社区管理平台
+# 20-智慧社区管理平台
+
+[文档地址](http://wechat.zjrcsy.cn/)
+
 #### 介绍
 
 技术：
@@ -26,7 +28,7 @@ Idea mysql maven jdk1.8
 ![d40d3026afc5d55205974d73ca741fa](https://yunzhuceshi.oss-cn-beijing.aliyuncs.com/typoraImg/d40d3026afc5d55205974d73ca741fa.png)
 
 
-####  xv:  MaKaBaca0
+[文档地址](http://wechat.zjrcsy.cn/)
 
 
 
